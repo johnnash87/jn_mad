@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Sat Aug 12 14:51:17 BST 2017
+2.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f70646d60966640a613e5665c4d1c961d3c576da
+5.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_33d75f4816a339ec1677dcea91ee1f2a1f627c14\\classes.dex
+5.set=DEX
+3.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=DEX
+4.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_two.xml
+5.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_33d75f4816a339ec1677dcea91ee1f2a1f627c14
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f70646d60966640a613e5665c4d1c961d3c576da\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_one.xml
+0.set=ANDROID_RESOURCE
