@@ -1,0 +1,7 @@
+#Tue Aug 22 16:39:00 BST 2017
+base.0=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_30c642876c6a1326337ebc2c1a3360eee8c1a004
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5dd5d9a5abfd2d381737c0ba7c387e727b7764ec\\classes.dex
+base.1=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5dd5d9a5abfd2d381737c0ba7c387e727b7764ec
+file.0=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_30c642876c6a1326337ebc2c1a3360eee8c1a004\\classes.dex

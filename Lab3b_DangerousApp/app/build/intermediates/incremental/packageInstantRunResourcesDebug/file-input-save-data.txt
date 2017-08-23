@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Aug 22 16:38:46 BST 2017
+1.base=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.base=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=C\:\\Lab3b_DangerousApp\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
