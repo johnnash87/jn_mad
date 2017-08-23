@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Sun Aug 20 10:16:16 BST 2017
+2.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\rebeccablack.txt
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\feed.xml
+5.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\ladygaga.txt
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\main_activity.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\taylorswift.txt
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main_activity.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

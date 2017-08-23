@@ -1,0 +1,7 @@
+#Sun Aug 20 10:16:27 BST 2017
+base.0=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0c3535de24928973e1157ed8b985a6638dd00c2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9410bb1f39d1021f62abc8db4ff07c32d417d985\\classes.dex
+base.1=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9410bb1f39d1021f62abc8db4ff07c32d417d985
+file.0=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0c3535de24928973e1157ed8b985a6638dd00c2\\classes.dex

@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Sun Aug 20 10:16:27 BST 2017
+2.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main_activity.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\ladygaga.txt
+4.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0c3535de24928973e1157ed8b985a6638dd00c2\\classes.dex
+5.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\rebeccablack.txt
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9410bb1f39d1021f62abc8db4ff07c32d417d985\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+10.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=DEX
+7.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\feed.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b0c3535de24928973e1157ed8b985a6638dd00c2
+8.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\main_activity.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9410bb1f39d1021f62abc8db4ff07c32d417d985
+9.base=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\taylorswift.txt
+8.set=ANDROID_RESOURCE
+0.set=DEX
