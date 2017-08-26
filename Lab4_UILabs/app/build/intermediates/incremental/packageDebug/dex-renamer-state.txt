@@ -1,0 +1,7 @@
+#Thu Aug 24 17:08:07 BST 2017
+base.0=C\:\\Lab4_UILabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b04ace2d7dd2d32f98a7d3701c1ce38277127076
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Lab4_UILabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2cf5a52ed2dc6c12fcfc68899d7f32c0994b1da9\\classes.dex
+base.1=C\:\\Lab4_UILabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2cf5a52ed2dc6c12fcfc68899d7f32c0994b1da9
+file.0=C\:\\Lab4_UILabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b04ace2d7dd2d32f98a7d3701c1ce38277127076\\classes.dex
